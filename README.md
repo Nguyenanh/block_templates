@@ -21,7 +21,7 @@ Or install it yourself as:
 
 In terminal type.
 
-`$ rails g model your_model`
+`$ rails g model company`
 
 
 ## Screens
