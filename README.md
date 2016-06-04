@@ -25,7 +25,7 @@ In terminal type.
 
 
 ## Screens
-
+![screen shot 2016-06-04 at 4 22 11 pm](https://cloud.githubusercontent.com/assets/7424863/15798816/ae3654da-2a70-11e6-837a-4a410d02c7be.png)
 ## Contributing
 
 1. Fork the project ( https://github.com/Nguyenanh/block_templates/fork )
